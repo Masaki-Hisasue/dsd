@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "521D6DD7-B5C3-440E-81BD-75A20DBD35F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3826C613-39B5-4EDA-AE31-BFBA26F71B38"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DogViewApp_School/viewController/SingleDogImageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "setImageView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3826C613-39B5-4EDA-AE31-BFBA26F71B38 - c4fe20d72f6910a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogViewApp_School.SingleDogImageViewController.tappdDouble() -&gt; ()"
+                  moduleName = "DogViewApp_School"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/teaching/dogViewApp/DogViewApp_School/DogViewApp_School/viewController/SingleDogImageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "3826C613-39B5-4EDA-AE31-BFBA26F71B38 - 2ee88d23040f942b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogViewApp_School.SingleDogImageViewController.tappdDouble(sender: Swift.Optional&lt;__C.UITapGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "DogViewApp_School"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/teaching/dogViewApp/DogViewApp_School/DogViewApp_School/viewController/SingleDogImageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
